@@ -2,7 +2,7 @@
 - 👀 I’m interested in changing career's into front end web development
 - 🌱 I’m currently learning DOM manipulation and more broadly have been doing Colt Steele's 'web development bootcamp' course on UDEMY.
 - 💞️ I’m looking to collaborate on anything where I can learn.
-- 📫 How to reach me, antoniojordaomiranda@gmail.com 
+
 
 <!---
 Anjumi96/Anjumi96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
